@@ -26,6 +26,6 @@ This repository contains an SQL-based analysis of laptop pricing trends.
 ## **Usage**
 - Clone the repository:
   ```sh
-  git clone https://github.com//laptop-price-analysis.git
+  git clone https://github.com/franciscaeze/laptop-price-analysis.git
   ```
 - Execute the SQL queries to analyze the data.
